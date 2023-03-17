@@ -1,0 +1,29 @@
+// node
+https://nodejs.org/ru/download/package-manager
+
+
+// git
+Для mac os
+https://www.youtube.com/watch?v=kBwMDSA-LfY
+Для windows
+https://www.youtube.com/watch?v=12BIw4GdGYQ
+Для linux
+https://www.youtube.com/watch?v=Wob0W00CjJc
+
+
+// git default commands
+
+git add . // . for all files
+git add file/path // for adding one file
+
+git status // check your added files status
+
+git commit -m 'commit name' // save your changes in commit
+
+git push -u origin 'name-of-your-branch' // push your commit to your github branch
+
+git checkout -b 'branch-name' // create new branch
+git checkout 'branch name' // go to the another branch you created before
+
+
+
